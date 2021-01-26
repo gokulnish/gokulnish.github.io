@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 - [Project 1 Income Classification](https://github.com/gokulnish/income_classification)
 - [Project 2 Airline Delay Estimation](https://github.com/gokulnish/airlines_delay_EDA)
@@ -11,9 +11,5 @@
 
 ---
 
-
-
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
