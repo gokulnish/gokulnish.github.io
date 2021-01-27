@@ -3,7 +3,7 @@
 ---
 
 ### Skills
-  <br>
+
   Programming Languages: Python, PL/SQL, R, C, C++, Java <br>
   Tools: Jupyter, Pycharm, Visual Studio Code <br>
   Technologies: TensorFlow, Keras, OpenCV, Pandas, NumPy, SciPy, scikit-learn, Matplotlib, NLTK <br>
