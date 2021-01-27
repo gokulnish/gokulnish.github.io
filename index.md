@@ -2,6 +2,18 @@
 
 ---
 
+### Skills
+  <br>
+  Programming Languages: Python, PL/SQL, R, C, C++, Java <br>
+  Tools: Jupyter, Pycharm, Visual Studio Code <br>
+  Technologies: TensorFlow, Keras, OpenCV, Pandas, NumPy, SciPy, scikit-learn, Matplotlib, NLTK <br>
+  Big Data Mining: Hadoop, SQL, Hive, Spark <br>
+  Visualization: Tableau, Matplotlib, ggplot, seaborn <br>
+  Cloud: AWS, Google Cloud
+  <br><br>
+
+---
+
 ### Projects
 
 - [Income Classification](https://github.com/gokulnish/income_classification)
