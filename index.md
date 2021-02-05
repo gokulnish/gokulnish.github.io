@@ -24,3 +24,9 @@
 - [Gathering Drusen Features from SD-OCT Images](https://github.com/gokulnish/gathering_drusen_features_from_sd-oct_images)
 
 ---
+
+### Data Science
+
+[Gathering Drusen Features from SD-OCT Images](https://github.com/gokulnish/gathering_drusen_features_from_sd-oct_images)
+<img src = "https://github.com/gokulnish/gathering_drusen_features_from_sd-oct_images/Images/Segmentation.png"/>
+<img src = "https://github.com/gokulnish/gathering_drusen_features_from_sd-oct_images/Images/Features.png"/>
