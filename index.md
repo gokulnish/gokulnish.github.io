@@ -55,4 +55,3 @@
 <img src = "images/RandomForest Porter Res.png?raw=true" width="400" height="400"/>
 
 ---
-[Advanced Data Analysis on World Air Pollution](https://github.com/gokulnish/advanced_data_analysis_on_air_pollution)
