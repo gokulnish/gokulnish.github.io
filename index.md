@@ -36,7 +36,11 @@
 
 ### [Sentiment Analysis on Drug Reviews](https://github.com/gokulnish/setiment_analysis_on_drug_reviews)
 <b>Porter Stemmer WordCloud for Positive and Negative Reviews</b>
-<img src="images/Porter Word Cloud 1.png?raw=true" height="500" width="1000">
+<img src="images/Porter Stemmer.png?raw=true" height="300" width="1000">
+<b>Lancaster Stemmer WordCloud for Positive and Negative Reviews</b>
+<img src="images/Porter Word Cloud 1.png?raw=true" height="300" width="1000">
+<b>Snowball Stemmer WordCloud for Positive and Negative Reviews</b>
+<img src="images/Snowball Stemmer.png?raw=true" height="300" width="1000">
 ### Random Forest Ensemble Result on Porter Stemmer
 <img src = "images/RandomForest Porter Res.png?raw=true" width="400" height="500"/>
 
