@@ -42,7 +42,7 @@
 <b>Snowball Stemmer WordCloud for Positive and Negative Reviews</b>
 <img src="images/Snowball Stemmer.png?raw=true" height="280" width="1000">
 ### Random Forest Ensemble Result on Porter Stemmer
-<img src = "images/RandomForest Porter Res.png?raw=true" width="400" height="500"/>
+<img src = "images/RandomForest Porter Res.png?raw=true" width="400" height="400"/>
 
 ---
 [Advanced Data Analysis on World Air Pollution](https://github.com/gokulnish/advanced_data_analysis_on_air_pollution)
