@@ -25,12 +25,21 @@
 
 ---
 
-### Data Science
+## Projects
 
-[Gathering Drusen Features from SD-OCT Images](https://github.com/gokulnish/gathering_drusen_features_from_sd-oct_images)
+### [Gathering Drusen Features from SD-OCT Images](https://github.com/gokulnish/gathering_drusen_features_from_sd-oct_images)
 <img src = "images/Segmentation.png?raw=true"/>
 ### Sample Features
 <img src = "images/Features.png?raw=true"/>
+
+---
+
+### [Sentiment Analysis on Drug Reviews](https://github.com/gokulnish/setiment_analysis_on_drug_reviews)
+<b>Porter Stemmer WordCloud for Positive and Negative Reviewa</b>
+<img src = "images/Porter_Word_Cloud_pos.png?raw=true"/>
+<img src = "images/Porter_Word_Cloud_neg.png?raw=true"/>
+### Random Forest Ensemble Result on Porter Stemmer
+<img src = "images/RandomForest Porter Res.png?raw=true"/>
 
 ---
 [Advanced Data Analysis on World Air Pollution](https://github.com/gokulnish/advanced_data_analysis_on_air_pollution)
