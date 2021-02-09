@@ -27,6 +27,16 @@
 
 ## Projects
 
+### [Advanced Data Analysis on World Air Pollution](https://github.com/gokulnish/advanced_data_analysis_on_air_pollution)
+<b> Correlation Plot ordered by AOE (Angular Order of the Eigenvectors) </b>
+<img src = "images/Correlation Plot.png?raw=true"/>
+<b> Princpal Factor Analysis </b>
+<img src = "images/PFA.png?raw=true"/>
+<b> Princpal Component Analysis </b>
+<img src = "images/PCA.png?raw=true"/>
+
+---
+
 ### [Gathering Drusen Features from SD-OCT Images](https://github.com/gokulnish/gathering_drusen_features_from_sd-oct_images)
 <img src = "images/Segmentation.png?raw=true"/>
 ### Sample Features
