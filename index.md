@@ -1,4 +1,4 @@
-## Portfolio
+# Portfolio
 
 ---
 
@@ -14,16 +14,16 @@
 
 ---
 
-## Projects
+# Projects
 
-### [Extracting Drusen Features from SD-OCT Images](https://github.com/gokulnish/gathering_drusen_features_from_sd-oct_images)
+## [Extracting Drusen Features from SD-OCT Images](https://github.com/gokulnish/gathering_drusen_features_from_sd-oct_images)
 <img src = "images/Segmentation.png?raw=true"/>
 ### Sample Features
 <img src = "images/Features.png?raw=true"/>
 
 ---
 
-### [Advanced Data Analysis on World Air Pollution](https://github.com/gokulnish/advanced_data_analysis_on_air_pollution)
+## [Advanced Data Analysis on World Air Pollution](https://github.com/gokulnish/advanced_data_analysis_on_air_pollution)
 <b> Correlation Plot ordered by AOE (Angular Order of the Eigenvectors) </b>
 <img src = "images/Correlation Plot.png?raw=true"/>
 <b> Princpal Factor Analysis </b>
@@ -33,7 +33,7 @@
 
 ---
 
-### [Data Visualization on Energy Consumption in Chicago 2010](https://github.com/gokulnish/Data_Visualization_on_energy_consumption)
+## [Data Visualization on Energy Consumption in Chicago 2010](https://github.com/gokulnish/Data_Visualization_on_energy_consumption)
 <b> Thermal vs kWh Usage over the Year 2010 in Chicago </b>
 <center>
   <img src = "images/ThermalvskWh.gif?raw=true"/>
@@ -42,7 +42,7 @@
   
 ---
 
-### [Sentiment Analysis on Drug Reviews](https://github.com/gokulnish/setiment_analysis_on_drug_reviews)
+## [Sentiment Analysis on Drug Reviews](https://github.com/gokulnish/setiment_analysis_on_drug_reviews)
 <b>Porter Stemmer WordCloud for Positive and Negative Reviews</b>
 <img src="images/Porter Stemmer.png?raw=true" height="280" width="1000">
 <b>Lancaster Stemmer WordCloud for Positive and Negative Reviews</b>
