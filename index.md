@@ -48,6 +48,7 @@
 <b> Thermal vs kWh Usage over the Year 2010 in Chicago
 <img src = "images/ThermalvskWh.gif?raw=true"/>
 <img src = "images/Legend.png?raw=true" width="150" height="200"/>
+  
 ---
 
 ### [Sentiment Analysis on Drug Reviews](https://github.com/gokulnish/setiment_analysis_on_drug_reviews)
