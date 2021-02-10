@@ -16,7 +16,7 @@
 
 ## Projects
 
-### [Gathering Drusen Features from SD-OCT Images](https://github.com/gokulnish/gathering_drusen_features_from_sd-oct_images)
+### [Extracting Drusen Features from SD-OCT Images](https://github.com/gokulnish/gathering_drusen_features_from_sd-oct_images)
 <img src = "images/Segmentation.png?raw=true"/>
 ### Sample Features
 <img src = "images/Features.png?raw=true"/>
