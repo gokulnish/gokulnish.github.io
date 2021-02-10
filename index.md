@@ -47,6 +47,7 @@
 ### [Data Visualization on Energy Consumption in Chicago 2010](https://github.com/gokulnish/Data_Visualization_on_energy_consumption)
 <b> Thermal vs kWh Usage over the Year 2010 in Chicago
 <img src = "images/ThermalvskWh.gif?raw=true"/>
+<img src = "images/Legend.png?raw=true" width="200" height="200"/>
 ---
 
 ### [Sentiment Analysis on Drug Reviews](https://github.com/gokulnish/setiment_analysis_on_drug_reviews)
